@@ -9,4 +9,4 @@
     //       "group": "navigation"
     //     }
     //   ]
-    // }
+    // }# vscode_extension
